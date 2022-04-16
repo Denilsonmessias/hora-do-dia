@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(3, 3, 99, 0.767);
+    font-family: Verdana;
+    text-align: center;
+    margin: auto;
+}
+
+header {
+    font-family: impact;
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: 100px;
+    color: white;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 5px black;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+
+footer {
+    font-weight: bolder;
+    color: white;
+    margin: 100px;
+    font-size: 14px;
+}
